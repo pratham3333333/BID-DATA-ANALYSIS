@@ -41,6 +41,21 @@ IBM Watson Health analyzes medical literature and patient history to assist doct
 
 ---
 
+
+
+se Case: Social Media Analytics
+Social media platforms like Facebook, Twitter, and Instagram generate terabytes of data every second—including likes, shares, comments, hashtags, and user behavior patterns. Big Data analytics is used to make sense of this massive, fast-flowing data stream.
+
+🎯 Impact:
+📢 Trend Detection – Identify viral hashtags or topics in real-time (e.g., #WorldCup2022).
+👥 Audience Segmentation – Target users with personalized ads based on interests, location, and behavior.
+📈 Sentiment Analysis – Analyze public opinion about brands, celebrities, or political events.
+🤖 Content Recommendation – Suggest videos or posts users are more likely to engage with (e.g., Instagram Reels).
+💰 Marketing ROI – Optimize ad spend based on performance data and conversion rates.
+
+
+
+
 ## ✅ Q3. Compare and Contrast the Different Classifications of Analytics and Their Roles in Big Data.
 
 **Answer:**
